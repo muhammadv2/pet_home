@@ -1,3 +1,41 @@
 <resources>
-    <string name="app_name">ShoeStore</string>
+    <string name="app_name">PetHome</string>
+    <!-- Strings related to login -->
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="shoe_inventory_desc">shoe inventory</string>
+    <string name="welcome_save_text">Save Pets, find Home</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_second_text">Every pet deserves proper shelter</string>
+    <string name="application_logo">Application logo</string>
+    <string name="application_usage_instructions_2">Use this application to save and retrieve pets information to help find them a sweet home</string>
+    <string name="instructions_2">Add, show and keep track of pets</string>
+    <string name="animal_group">Group</string>
+    <string name="name">Name</string>
+    <string name="animal_age">Age</string>
+    <string name="description">Description</string>
+    <string name="save_pet">Save</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="empty_list">It\'s little bit empty in here start adding pets to see them here</string>
+    <string name="add_new_pet">add new pet</string>
+    <string name="pet_name">Pet name</string>
+    <string name="age">age</string>
+    <string name="log_out">log out</string>
 </resources>
